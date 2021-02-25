@@ -1,0 +1,2 @@
+This is an example text file.
+It will be used to display the hex dump program's functionality.
